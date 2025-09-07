@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>武器道具查询系统</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>武器道具查询系统</h1>
+        
+        <div class="search-section">
+            <h2>按地点查询</h2>
+            <form action="/search_by_location" method="post">
+                <select name="location">
+                    {% for location in locations %}
+                        <option value="{{ location }}">{{ location }}</option>
+                    {% endfor %}
+                </select>
+                <button type="submit">查询</button>
+            </form>
+        </div>
+        
+        <div class="search-section">
+            <h2>按装备类别查询</h2>
+            <form action="/search_by_category" method="post">
+                <select name="category">
+                    {% for category in categories %}
+                        <option value="{{ category }}">{{ category }}</option>
+                    {% endfor %}
+                </select>
+                <button type="submit">查询</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

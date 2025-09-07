@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>类别查询结果 - {{ category }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>{{ category }} 类装备</h1>
+        <a href="/">返回首页</a>
+        
+        <div class="result-section">
+            {% if items %}
+                <ul>
+                    {% for item in items %}
+                        <li>
+                            <strong>{{ item.name }}</strong><br>
+                            获取地点: {{ item.location }}<br>
+                            效果: {{ item.ability }}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p>该类别没有装备数据</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
