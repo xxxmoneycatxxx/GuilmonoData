@@ -46,10 +46,10 @@ def process_document(text):
 
 # 示例使用
 if __name__ == "__main__":
-    with open(r'..\dataSource\item.RareItemDropData.md', 'r', encoding='utf-8') as f:
+    with open('dataSource\item.RareItemDropData.md', 'r', encoding='utf-8') as f:
         content = f.read()
     
     processed_content = process_document(content)
     
-    with open(r'..\dataSource\item.RareItemDropData.md', 'w', encoding='utf-8') as f:
+    with open('dataSource\item.RareItemDropData.md', 'w', encoding='utf-8') as f:
         f.write(processed_content)

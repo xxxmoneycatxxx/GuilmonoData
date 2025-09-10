@@ -1,0 +1,5048 @@
+[
+  {
+    "id": 1,
+    "name": "史莱姆洞窟（スライムの洞窟）",
+    "items": [
+      {
+        "name": "幸运硬币（幸運のコイン）",
+        "isRare": false,
+        "trap_difficulty": "41",
+        "drop_monster": "史莱姆（スライム）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "哥布林住所（ゴブリンの住居）",
+    "items": [
+      {
+        "name": "幸运硬币（幸運のコイン）",
+        "isRare": false,
+        "trap_difficulty": "41～43",
+        "drop_monster": "史莱姆（スライム）"
+      },
+      {
+        "name": "加速装置（加速装置）",
+        "isRare": false,
+        "trap_difficulty": "121",
+        "drop_monster": "大蝙蝠（大コウモリ）"
+      },
+      {
+        "name": "迟钝诅咒（鈍足の呪い）",
+        "isRare": false,
+        "trap_difficulty": "43",
+        "drop_monster": "大蝙蝠（大コウモリ）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "89～91",
+        "drop_monster": "哥布林（ゴブリン）"
+      },
+      {
+        "name": "不死杀手剑（アンデッドキラー）",
+        "isRare": false,
+        "trap_difficulty": "76",
+        "drop_monster": "哥布林（ゴブリン）"
+      },
+      {
+        "name": "★魔法剑（魔法の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "★睡眠剑（眠りの剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "咒文卷《魔法之矢》（呪文書『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "魔道教典 Lv2《睡眠之云》（魔道教典 Lv2『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "魔道教典 Lv3《火焰之玉》（魔道教典 Lv3『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "★宰相书信（宰相の書簡）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂巫师（狂気のウィザード）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "地下墓地（地下墓地）",
+    "items": [
+      {
+        "name": "魔物杀手剑（モンスターキラー）",
+        "isRare": false,
+        "trap_difficulty": "98",
+        "drop_monster": "僵尸（ゾンビ）"
+      },
+      {
+        "name": "骑士盾牌（ナイトシールド）",
+        "isRare": false,
+        "trap_difficulty": "97",
+        "drop_monster": "骷髅（スケルトン）"
+      },
+      {
+        "name": "★魔法剑（魔法の剣）",
+        "isRare": true,
+        "trap_difficulty": "83",
+        "drop_monster": "幽灵（ゴースト）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "恶魔（デーモン）"
+      },
+      {
+        "name": "魔剑（魔剣）",
+        "isRare": false,
+        "trap_difficulty": "183",
+        "drop_monster": "恶魔（デーモン）"
+      },
+      {
+        "name": "★红莲剑（紅蓮の剣）",
+        "isRare": true,
+        "trap_difficulty": "118",
+        "drop_monster": "恶魔（デーモン）"
+      },
+      {
+        "name": "弑神剑（ゴッドキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "恶魔（デーモン）"
+      },
+      {
+        "name": "★黑翼（黒い翼）",
+        "isRare": true,
+        "trap_difficulty": "68",
+        "drop_monster": "恶魔（デーモン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "贫民窟黑手党（スラム街のマフィア）",
+    "items": [
+      {
+        "name": "觉醒戒指（覚醒の指輪）",
+        "isRare": false,
+        "trap_difficulty": "153\\~159",
+        "drop_monster": "地痞（おいはぎ）"
+      },
+      {
+        "name": "刺客匕首（アサシンダガー）",
+        "isRare": false,
+        "trap_difficulty": "82",
+        "drop_monster": "猎人盗贼（ハンターシーフ）"
+      },
+      {
+        "name": "★治愈之剑（癒しの剣）",
+        "isRare": true,
+        "trap_difficulty": "79",
+        "drop_monster": "叛徒（背教徒）"
+      },
+      {
+        "name": "托钵袋（頭陀袋）",
+        "isRare": false,
+        "trap_difficulty": "34",
+        "drop_monster": "叛徒（背教徒）"
+      },
+      {
+        "name": "对物理屏障（対物理バリア）",
+        "isRare": false,
+        "trap_difficulty": "282",
+        "drop_monster": "黑手党壮汉（マフィア・ブル）"
+      },
+      {
+        "name": "骑士板甲（ナイトプレート）",
+        "isRare": false,
+        "trap_difficulty": "99",
+        "drop_monster": "黑手党壮汉（マフィア・ブル）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "99\\~145",
+        "drop_monster": "黑手党壮汉（マフィア?ブル）"
+      },
+      {
+        "name": "大师剑（マスターソード）",
+        "isRare": false,
+        "trap_difficulty": "99",
+        "drop_monster": "黑手党壮汉（マフィア?ブル）"
+      },
+      {
+        "name": "骑士护手（ナイトガントレット）",
+        "isRare": false,
+        "trap_difficulty": "99",
+        "drop_monster": "黑手党壮汉（マフィア?ブル）"
+      },
+      {
+        "name": "★机械（機械）",
+        "isRare": true,
+        "trap_difficulty": "64",
+        "drop_monster": "黑手党壮汉（マフィア?ブル）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "盗贼团据点（盗賊団のアジト）",
+    "items": [
+      {
+        "name": "盗贼护手（盗賊の小手）",
+        "isRare": false,
+        "trap_difficulty": "99\\~101",
+        "drop_monster": "盗贼（盗賊）"
+      },
+      {
+        "name": "★睡眠剑（眠りの剣）",
+        "isRare": true,
+        "trap_difficulty": "87\\~91",
+        "drop_monster": "魔法师（魔法使い）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "82",
+        "drop_monster": "剑士（剣士）"
+      },
+      {
+        "name": "骑士斗篷（ナイトクローク）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "保镖真影（用心棒シンカゲ）"
+      },
+      {
+        "name": "胁差（脇差し）",
+        "isRare": false,
+        "trap_difficulty": "113",
+        "drop_monster": "保镖真影（用心棒シンカゲ）"
+      },
+      {
+        "name": "长刀物干竿（長刀物干竿）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "保镖真影（用心棒シンカゲ）"
+      },
+      {
+        "name": "仁王铠甲（仁王の鎧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "保镖真影（用心棒シンカゲ）"
+      },
+      {
+        "name": "★免许皆传（免許皆伝）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "保镖真影（用心棒シンカゲ）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "拉尔巴遗迹（ラルバ遺跡）",
+    "items": [
+      {
+        "name": "巨人战斧（巨人の戦斧）",
+        "isRare": false,
+        "trap_difficulty": "88\\~90",
+        "drop_monster": "兽人（オーク）"
+      },
+      {
+        "name": "忍者斗篷（ニンジャガープ）",
+        "isRare": false,
+        "trap_difficulty": "97～105",
+        "drop_monster": "鹰身女妖（ハーピィ）"
+      },
+      {
+        "name": "神秘之石（神秘の石）",
+        "isRare": false,
+        "trap_difficulty": "229～231",
+        "drop_monster": "大蜥蜴（大トカゲ）"
+      },
+      {
+        "name": "忍者剑（ニンジャソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂扎克（マッド・ザック）"
+      },
+      {
+        "name": "黑装束（黒装束）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂扎克（マッド・ザック）"
+      },
+      {
+        "name": "手里剑（手裏剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂扎克（マッド・ザック）"
+      },
+      {
+        "name": "银护手（銀の小手）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂扎克（マッド・ザック）"
+      },
+      {
+        "name": "★秘传书（秘伝書）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "疯狂扎克（マッド・ザック）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "黑暗精灵堡垒（ダークエルフの砦）",
+    "items": [
+      {
+        "name": "森林之杖（森の杖）",
+        "isRare": false,
+        "trap_difficulty": "99～119",
+        "drop_monster": "黑暗精灵（ダークエルフ）"
+      },
+      {
+        "name": "僧侣法杖（プリーストロッド）",
+        "isRare": false,
+        "trap_difficulty": "101",
+        "drop_monster": "黑暗主教（ダークビショップ）"
+      },
+      {
+        "name": "神圣教典 Lv1《治愈之力》（神聖教典 Lv1『癒しの力』）",
+        "isRare": false,
+        "trap_difficulty": "88",
+        "drop_monster": "黑暗主教（ダークビショップ）"
+      },
+      {
+        "name": "咒文卷《治愈之力》（呪文書『癒しの力』）",
+        "isRare": false,
+        "trap_difficulty": "84",
+        "drop_monster": "黑暗主教（ダークビショップ）"
+      },
+      {
+        "name": "神圣教典 Lv2《守护之力》（神聖教典 Lv2『守護の力』）",
+        "isRare": false,
+        "trap_difficulty": "113",
+        "drop_monster": "黑暗主教（ダークビショップ）"
+      },
+      {
+        "name": "咒文卷《守护之力》（呪文書『守護の力』）",
+        "isRare": false,
+        "trap_difficulty": "109",
+        "drop_monster": "黑暗主教（ダークビショップ）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "119",
+        "drop_monster": "黑暗主教（ダークビショップ）"
+      },
+      {
+        "name": "咒文卷《治疗之力》（呪文書『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "123",
+        "drop_monster": "黑暗主教（ダークビショップ）"
+      },
+      {
+        "name": "水镜之盾（水鏡の盾）",
+        "isRare": false,
+        "trap_difficulty": "99～103",
+        "drop_monster": "黑暗骑士（ダークナイト）"
+      },
+      {
+        "name": "★吹雪剑（吹雪の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "黑暗领主（ダークロード）"
+      },
+      {
+        "name": "★祝福之剑（祝福の剣）",
+        "isRare": true,
+        "trap_difficulty": "128",
+        "drop_monster": "黑暗领主（ダークロード）"
+      },
+      {
+        "name": "魔道教典 Lv4《冻结暴风雪》（魔道教典 Lv4『凍える吹雪』）",
+        "isRare": false,
+        "trap_difficulty": "148",
+        "drop_monster": "黑暗领主（ダークロード）"
+      },
+      {
+        "name": "咒文卷《冻结暴风雪》（呪文書『凍える吹雪』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "黑暗领主（ダークロード）"
+      },
+      {
+        "name": "神圣教典 Lv4《恢复之力》（神聖教典 Lv4『回復の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "黑暗领主（ダークロード）"
+      },
+      {
+        "name": "咒文卷《恢复之力》（呪文書『回復の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "黑暗领主（ダークロード）"
+      },
+      {
+        "name": "★银币（銀貨）",
+        "isRare": true,
+        "trap_difficulty": "68",
+        "drop_monster": "黑暗领主（ダークロード）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "火龙山（火竜山）",
+    "items": [
+      {
+        "name": "龙之杖（竜の杖）",
+        "isRare": false,
+        "trap_difficulty": "226～250",
+        "drop_monster": "幼龙（ドラゴンパピー）"
+      },
+      {
+        "name": "草薙剑（草薙の剣）",
+        "isRare": false,
+        "trap_difficulty": "150～167",
+        "drop_monster": "火蜥蜴（サラマンダー）"
+      },
+      {
+        "name": "龙骑士之盾（竜騎士の盾）",
+        "isRare": false,
+        "trap_difficulty": "111～115",
+        "drop_monster": "双足飞龙（ワイバーン）"
+      },
+      {
+        "name": "扭结头巾（ねじりはちまき）",
+        "isRare": false,
+        "trap_difficulty": "134",
+        "drop_monster": "红龙（レッドドラゴン）"
+      },
+      {
+        "name": "火龙秘石（火竜の秘石）",
+        "isRare": false,
+        "trap_difficulty": "199～223",
+        "drop_monster": "红龙（レッドドラゴン）"
+      },
+      {
+        "name": "贤者之石（賢者の石）",
+        "isRare": false,
+        "trap_difficulty": "500～568",
+        "drop_monster": "红龙（レッドドラゴン）"
+      },
+      {
+        "name": "★闪电剑（稲妻の剣）",
+        "isRare": true,
+        "trap_difficulty": "209",
+        "drop_monster": "红龙（レッドドラゴン）"
+      },
+      {
+        "name": "★结界之剑（結界の剣）",
+        "isRare": true,
+        "trap_difficulty": "169～",
+        "drop_monster": "红龙（レッドドラゴン）"
+      },
+      {
+        "name": "★火龙之鳞（火竜の鱗）",
+        "isRare": true,
+        "trap_difficulty": "84-",
+        "drop_monster": "红龙（レッドドラゴン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "封印魔城（封印の魔城）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "163～173",
+        "drop_monster": "骷髅骑士（スケルトンナイト）"
+      },
+      {
+        "name": "座敷童子头巾（座敷童子の頭巾）",
+        "isRare": false,
+        "trap_difficulty": "69\\~77",
+        "drop_monster": "幻影（ファントム）"
+      },
+      {
+        "name": "神之盾（神の盾）",
+        "isRare": false,
+        "trap_difficulty": "119～123",
+        "drop_monster": "灰色恶魔（デーモン・グレイ）"
+      },
+      {
+        "name": "冰龙秘石（氷竜の秘石）",
+        "isRare": false,
+        "trap_difficulty": "203～225",
+        "drop_monster": "僵尸龙（ドラゴン・ゾンビ）"
+      },
+      {
+        "name": "雷龙秘石（雷竜の秘石）",
+        "isRare": false,
+        "trap_difficulty": "203",
+        "drop_monster": "僵尸龙（ドラゴン・ゾンビ）"
+      },
+      {
+        "name": "对吐息屏障（対ブレスバリア）",
+        "isRare": false,
+        "trap_difficulty": "298",
+        "drop_monster": "僵尸龙（ドラゴン・ゾンビ）"
+      },
+      {
+        "name": "对魔法屏障（対魔法バリア）",
+        "isRare": false,
+        "trap_difficulty": "298",
+        "drop_monster": "僵尸龙（ドラゴン・ゾンビ）"
+      },
+      {
+        "name": "吸血鬼之杯（吸血鬼の杯）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "巴祖祖（バズズ）"
+      },
+      {
+        "name": "死神之镰（死神の鎌）",
+        "isRare": false,
+        "trap_difficulty": "253",
+        "drop_monster": "巴祖祖（バズズ）"
+      },
+      {
+        "name": "正宗（マサムネ）",
+        "isRare": false,
+        "trap_difficulty": "203",
+        "drop_monster": "巴祖祖（バズズ）"
+      },
+      {
+        "name": "★恶魔之尾（悪魔のしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "288",
+        "drop_monster": "巴祖祖（バズズ）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "78",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "赫利俄斯之塔（ヘリウスの塔）",
+    "items": [
+      {
+        "name": "魔兽之爪（魔獣の爪）",
+        "isRare": false,
+        "trap_difficulty": "95\\~107",
+        "drop_monster": "傀儡（パペット）"
+      },
+      {
+        "name": "★守护之剑（守護の剣）",
+        "isRare": true,
+        "trap_difficulty": "93\\~97",
+        "drop_monster": "飞行剑（フライングソード）"
+      },
+      {
+        "name": "★妖精之剑（妖精の剣）",
+        "isRare": true,
+        "trap_difficulty": "114\\~122",
+        "drop_monster": "人造人（ホムンクルス）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "秘石石像鬼（ミスリルゴーレム）"
+      },
+      {
+        "name": "巨人板甲（ジャイアントプレート）",
+        "isRare": false,
+        "trap_difficulty": "107",
+        "drop_monster": "秘石石像鬼（ミスリルゴーレム）"
+      },
+      {
+        "name": "领主板甲（ロードプレート）",
+        "isRare": false,
+        "trap_difficulty": "78",
+        "drop_monster": "秘石石像鬼（ミスリルゴーレム）"
+      },
+      {
+        "name": "★秘银块（ミスリル塊）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "秘石石像鬼（ミスリルゴーレム）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "幸运兔子（ラッキーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "魔兽森林（魔獣の森）",
+    "items": [
+      {
+        "name": "草薙剑（草薙の剣）",
+        "isRare": false,
+        "trap_difficulty": "173～189",
+        "drop_monster": "大蚂蚁（ビッグアント）"
+      },
+      {
+        "name": "魔物杀手剑（モンスターキラー）",
+        "isRare": false,
+        "trap_difficulty": "118～126",
+        "drop_monster": "大蜘蛛（大グモ）"
+      },
+      {
+        "name": "森林之杖（森の杖）",
+        "isRare": false,
+        "trap_difficulty": "123",
+        "drop_monster": "郊狼（コヨーテ）"
+      },
+      {
+        "name": "大师剑（マスターソード）",
+        "isRare": false,
+        "trap_difficulty": "145",
+        "drop_monster": "蝎子（スコーピオ）"
+      },
+      {
+        "name": "★妖精之剑（妖精の剣）",
+        "isRare": true,
+        "trap_difficulty": "138～146",
+        "drop_monster": "杀手兔子（キラーラビット）"
+      },
+      {
+        "name": "魔兽之爪（魔獣の爪）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "森林之主（森の主）"
+      },
+      {
+        "name": "妖兽之爪（妖獣の爪）",
+        "isRare": false,
+        "trap_difficulty": "326",
+        "drop_monster": "森林之主（森の主）"
+      },
+      {
+        "name": "★水牛之角（バッファローホーン）",
+        "isRare": true,
+        "trap_difficulty": "106",
+        "drop_monster": "森林之主（森の主）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "530",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "石像鬼堡垒（ゴーレムの砦）",
+    "items": [
+      {
+        "name": "★魔法剑（魔法の剣）",
+        "isRare": true,
+        "trap_difficulty": "109～125",
+        "drop_monster": "正规兵（正規兵）"
+      },
+      {
+        "name": "僧侣石板（僧侶のタブレット）",
+        "isRare": false,
+        "trap_difficulty": "308～320",
+        "drop_monster": "蜥蜴人（リザードマン）"
+      },
+      {
+        "name": "火焰魔杖（ファイアーワンド）",
+        "isRare": false,
+        "trap_difficulty": "265～275",
+        "drop_monster": "女魔导士（女魔導師）"
+      },
+      {
+        "name": "咒文卷《魔法之矢》（呪文書『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "122\\~124",
+        "drop_monster": "女魔导士（女魔導師）"
+      },
+      {
+        "name": "仁王铠甲（仁王の鎧）",
+        "isRare": false,
+        "trap_difficulty": "163～176",
+        "drop_monster": "军用石像鬼（ミリタリーゴーレム）"
+      },
+      {
+        "name": "★装甲（装甲）",
+        "isRare": true,
+        "trap_difficulty": "110\\~127",
+        "drop_monster": "军用石像鬼（ミリタリーゴーレム）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Necromancer 寺院（ネクロマンサーの寺院）",
+    "items": [
+      {
+        "name": "定制大剑（特注の大剣）",
+        "isRare": false,
+        "trap_difficulty": "267～269",
+        "drop_monster": "装甲战士（アーマー戦士）"
+      },
+      {
+        "name": "强效治愈法杖（ヒールプラスロッド）",
+        "isRare": false,
+        "trap_difficulty": "279～283",
+        "drop_monster": "女贤者（女賢者）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "265～271",
+        "drop_monster": "活铠甲（リビングアーマー）"
+      },
+      {
+        "name": "大典太光世（大典太光世）",
+        "isRare": false,
+        "trap_difficulty": "388\\~398",
+        "drop_monster": "队长（隊長）"
+      },
+      {
+        "name": "巨人板甲（ジャイアントプレート）",
+        "isRare": false,
+        "trap_difficulty": "153",
+        "drop_monster": "队长（隊長）"
+      },
+      {
+        "name": "★队长勋章（隊長の勲章）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "队长（隊長）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "收容所（収容所）",
+    "items": [
+      {
+        "name": "加速装置（加速装置）",
+        "isRare": false,
+        "trap_difficulty": "167",
+        "drop_monster": "高级盗贼（ハイシーフ）"
+      },
+      {
+        "name": "魔法剑（マジックソード）",
+        "isRare": false,
+        "trap_difficulty": "237\\~245",
+        "drop_monster": "魔法剑士（魔法剣士）"
+      },
+      {
+        "name": "魔道教典 Lv4《冻结暴风雪》（魔道教典 Lv4『凍える吹雪』）",
+        "isRare": false,
+        "trap_difficulty": "180",
+        "drop_monster": "魔法剑士（魔法剣士）"
+      },
+      {
+        "name": "久经战阵铠甲（歴戦の鎧）",
+        "isRare": false,
+        "trap_difficulty": "269～289",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "龙骑士之盾（竜騎士の盾）",
+        "isRare": false,
+        "trap_difficulty": "139",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "★龙之号角（竜の角笛）",
+        "isRare": true,
+        "trap_difficulty": "104",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "林德尔神殿（リンドール神殿）",
+    "items": [
+      {
+        "name": "祭司法衣（司祭の法衣）",
+        "isRare": false,
+        "trap_difficulty": "275～293",
+        "drop_monster": "装甲骑士（アーマーナイト）"
+      },
+      {
+        "name": "冰之魔杖（アイスワンド）",
+        "isRare": false,
+        "trap_difficulty": "275\\~289",
+        "drop_monster": "公主（プリンセス）"
+      },
+      {
+        "name": "咒文卷《结界之力》（呪文書『結界の力』）",
+        "isRare": false,
+        "trap_difficulty": "229\\~231",
+        "drop_monster": "公主（プリンセス）"
+      },
+      {
+        "name": "圣骑士盾牌（パラディンシールド）",
+        "isRare": false,
+        "trap_difficulty": "291\\~311",
+        "drop_monster": "亲卫队（親衛隊）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "171",
+        "drop_monster": "亲卫队（親衛隊）"
+      },
+      {
+        "name": "仁王铠甲（仁王の鎧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "军用石像鬼（ミリタリーゴーレム）"
+      },
+      {
+        "name": "★装甲（装甲）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "军用石像鬼（ミリタリーゴーレム）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "295",
+        "drop_monster": "活铠甲（リビングアーマー）"
+      },
+      {
+        "name": "久经战阵铠甲（歴戦の鎧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "龙骑士之盾（竜騎士の盾）",
+        "isRare": false,
+        "trap_difficulty": "165",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "★龙之号角（竜の角笛）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "群体治愈法杖（パーティヒールロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "祭司石板（司祭のタブレット）",
+        "isRare": false,
+        "trap_difficulty": "400",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "魔法师守护剑（魔法使いの守護剣）",
+        "isRare": false,
+        "trap_difficulty": "340",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "咒文卷《禁忌之力》（呪文書『禁断の力』）",
+        "isRare": false,
+        "trap_difficulty": "330",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "★悟道之书（悟りの書）",
+        "isRare": true,
+        "trap_difficulty": "330",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "（非稀有）赫利俄斯魔导书 / 神书《XX 秘技》（(非ﾚｱ) ヘリウスの魔導書 / 神書『○○の裏技』）",
+        "isRare": false,
+        "trap_difficulty": "245/275/320",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "迷失森林（迷いの森）",
+    "items": [
+      {
+        "name": "草薙剑（草薙の剣）",
+        "isRare": false,
+        "trap_difficulty": "173～187",
+        "drop_monster": "大蚂蚁（ビッグアント）"
+      },
+      {
+        "name": "魔物杀手剑（モンスターキラー）",
+        "isRare": false,
+        "trap_difficulty": "118～126",
+        "drop_monster": "大蜘蛛（大グモ）"
+      },
+      {
+        "name": "森林之杖（森の杖）",
+        "isRare": false,
+        "trap_difficulty": "123",
+        "drop_monster": "郊狼（コヨーテ）"
+      },
+      {
+        "name": "大师剑（マスターソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "蝎子（スコーピオ）"
+      },
+      {
+        "name": "★妖精之剑（妖精の剣）",
+        "isRare": true,
+        "trap_difficulty": "138～146",
+        "drop_monster": "杀手兔子（キラーラビット）"
+      },
+      {
+        "name": "一击魔斧（一撃の魔斧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "巨型大猩猩（ジャイアントゴリラ）"
+      },
+      {
+        "name": "扭结头巾（ねじりはちまき）",
+        "isRare": false,
+        "trap_difficulty": "263",
+        "drop_monster": "巨型大猩猩（ジャイアントゴリラ）"
+      },
+      {
+        "name": "守卫者板甲（ガーディアンプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "树人（トレント）"
+      },
+      {
+        "name": "巨人战斧（巨人の戦斧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "树人（トレント）"
+      },
+      {
+        "name": "咒文卷《治愈之力》（呪文書『癒しの力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "树人（トレント）"
+      },
+      {
+        "name": "王家小剑（王家の小剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "独角兽（ユニコーン）"
+      },
+      {
+        "name": "僧侣法杖（プリーストロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "独角兽（ユニコーン）"
+      },
+      {
+        "name": "森林之杖（森の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "独角兽（ユニコーン）"
+      },
+      {
+        "name": "咒文卷《恢复之力》（呪文書『回復の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "独角兽（ユニコーン）"
+      },
+      {
+        "name": "龙牙长剑（竜牙の長剣）",
+        "isRare": false,
+        "trap_difficulty": "338",
+        "drop_monster": "龙狼（ドラゴンウルフ）"
+      },
+      {
+        "name": "骑士护手（ナイトガントレット）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙狼（ドラゴンウルフ）"
+      },
+      {
+        "name": "黑魔导士之魂（黒魔導師の魂）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "白魔导士之魂（白魔導師の魂）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "月之石（ルナ・ストーン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "★绘本（絵本）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "森林地下（森の地下）",
+    "items": [
+      {
+        "name": "幸运硬币（幸運のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "史莱姆（スライム）"
+      },
+      {
+        "name": "★破坏之剑（破壊の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "核武装石像鬼（核武装ゴーレム）"
+      },
+      {
+        "name": "舍身剑（捨て身の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "领主板甲（ロードプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "★核心系统（コア・システム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "黑魔导士之魂（黒魔導師の魂）",
+        "isRare": false,
+        "trap_difficulty": "588\\~706",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "白魔导士之魂（白魔導師の魂）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "月之石（ルナ・ストーン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "★绘本（絵本）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "攻魔屏障（攻魔障壁）",
+        "isRare": false,
+        "trap_difficulty": "706",
+        "drop_monster": "蚂蚁人（アントマン）"
+      },
+      {
+        "name": "十只手脚（十の手足）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "蚂蚁人（アントマン）"
+      },
+      {
+        "name": "道具必出（アイテムでるでる）",
+        "isRare": false,
+        "trap_difficulty": "1076",
+        "drop_monster": "蚂蚁人（アントマン）"
+      },
+      {
+        "name": "★蜂王浆（ロイヤルゼリー）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "蚂蚁人（アントマン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "冒险者 vs 军队（冒険者 vs 軍隊）",
+    "items": [
+      {
+        "name": "★魔法剑（魔法の剣）",
+        "isRare": true,
+        "trap_difficulty": "163",
+        "drop_monster": "正规兵（正規兵）"
+      },
+      {
+        "name": "僧侣石板（僧侶のタブレット）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "蜥蜴人（リザードマン）"
+      },
+      {
+        "name": "火焰魔杖（ファイアーワンド）",
+        "isRare": false,
+        "trap_difficulty": "313",
+        "drop_monster": "女魔导士（女魔導師）"
+      },
+      {
+        "name": "咒文卷《魔法之矢》（呪文書『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "女魔导士（女魔導師）"
+      },
+      {
+        "name": "定制大剑（特注の大剣）",
+        "isRare": false,
+        "trap_difficulty": "313",
+        "drop_monster": "装甲战士（アーマー戦士）"
+      },
+      {
+        "name": "强效治愈法杖（ヒールプラスロッド）",
+        "isRare": false,
+        "trap_difficulty": "281",
+        "drop_monster": "女贤者（女賢者）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "313",
+        "drop_monster": "活铠甲（リビングアーマー）"
+      },
+      {
+        "name": "魔法剑（マジックソード）",
+        "isRare": false,
+        "trap_difficulty": "283",
+        "drop_monster": "魔法剑士（魔法剣士）"
+      },
+      {
+        "name": "魔道教典 Lv4《冻结暴风雪》（魔道教典 Lv4『凍える吹雪』）",
+        "isRare": false,
+        "trap_difficulty": "180",
+        "drop_monster": "魔法剑士（魔法剣士）"
+      },
+      {
+        "name": "久经战阵铠甲（歴戦の鎧）",
+        "isRare": false,
+        "trap_difficulty": "313",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "龙骑士之盾（竜騎士の盾）",
+        "isRare": false,
+        "trap_difficulty": "263",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "★龙之号角（竜の角笛）",
+        "isRare": true,
+        "trap_difficulty": "148",
+        "drop_monster": "龙骑士（ドラゴンライダー）"
+      },
+      {
+        "name": "祭司法衣（司祭の法衣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "装甲骑士（アーマーナイト）"
+      },
+      {
+        "name": "冰之魔杖（アイスワンド）",
+        "isRare": false,
+        "trap_difficulty": "313",
+        "drop_monster": "公主（プリンセス）"
+      },
+      {
+        "name": "咒文卷《结界之力》（呪文書『結界の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "公主（プリンセス）"
+      },
+      {
+        "name": "圣骑士盾牌（パラディンシールド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "亲卫队（親衛隊）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "亲卫队（親衛隊）"
+      },
+      {
+        "name": "★破坏之剑（破壊の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "核武装石像鬼（核武装ゴーレム）"
+      },
+      {
+        "name": "群体治愈法杖（パーティヒールロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "祭司石板（司祭のタブレット）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "魔法师守护剑（魔法使いの守護剣）",
+        "isRare": false,
+        "trap_difficulty": "340",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "咒文卷《禁忌之力》（呪文書『禁断の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "★悟道之书（悟りの書）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "格雷亚斯宰相（宰相グレイアス）"
+      },
+      {
+        "name": "名剑巴尔蒙克（名剣バルムンク）",
+        "isRare": false,
+        "trap_difficulty": "608～628",
+        "drop_monster": "齐格弗里德（ジークフリート）"
+      },
+      {
+        "name": "法夫纳龙血（ファフニールの竜血）",
+        "isRare": false,
+        "trap_difficulty": "701",
+        "drop_monster": "齐格弗里德（ジークフリート）"
+      },
+      {
+        "name": "尼伯龙根戒指（ニーベルングの指輪）",
+        "isRare": false,
+        "trap_difficulty": "624",
+        "drop_monster": "齐格弗里德（ジークフリート）"
+      },
+      {
+        "name": "★菩提树叶（菩提樹の葉）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "齐格弗里德（ジークフリート）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "530",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "冰雷山 A 路线（氷雷山Ａルート）",
+    "items": [
+      {
+        "name": "魔道教典 Lv2《睡眠之云》（魔道教典 Lv2『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "183",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "迟钝诅咒（鈍足の呪い）",
+        "isRare": false,
+        "trap_difficulty": "105\\~121",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "★守护之剑（守護の剣）",
+        "isRare": true,
+        "trap_difficulty": "161～167",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "长刀物干竿（長刀物干竿）",
+        "isRare": false,
+        "trap_difficulty": "143～165",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "合金重铠（合金の重鎧）",
+        "isRare": false,
+        "trap_difficulty": "332～370",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "仁王铠甲（仁王の鎧）",
+        "isRare": false,
+        "trap_difficulty": "160～196",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "大马士革板甲（ダマスカスプレート）",
+        "isRare": false,
+        "trap_difficulty": "346",
+        "drop_monster": "猛犸象（マンモス）"
+      },
+      {
+        "name": "魔剑（魔剣）",
+        "isRare": false,
+        "trap_difficulty": "193",
+        "drop_monster": "猛犸象（マンモス）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "530",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "冰雷山 B 路线（氷雷山Ｂルート）",
+    "items": [
+      {
+        "name": "魔道教典 Lv2《睡眠之云》（魔道教典 Lv2『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "183",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "迟钝诅咒（鈍足の呪い）",
+        "isRare": false,
+        "trap_difficulty": "121",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "★守护之剑（守護の剣）",
+        "isRare": true,
+        "trap_difficulty": "161～167",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "长刀物干竿（長刀物干竿）",
+        "isRare": false,
+        "trap_difficulty": "143～165",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "合金重铠（合金の重鎧）",
+        "isRare": false,
+        "trap_difficulty": "332～370",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "仁王铠甲（仁王の鎧）",
+        "isRare": false,
+        "trap_difficulty": "160～196",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "雷龙牙杖（雷竜の牙杖）",
+        "isRare": false,
+        "trap_difficulty": "418",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "雷龙秘石（雷竜の秘石）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "雷龙之盾（雷竜の盾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "★雷龙之鳞（雷竜の鱗）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "封龙之衣（封龍の衣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "野生女人（ワイルドウーマン）"
+      },
+      {
+        "name": "不死药（不死身の薬）",
+        "isRare": false,
+        "trap_difficulty": "578",
+        "drop_monster": "野生女人（ワイルドウーマン）"
+      },
+      {
+        "name": "幸运硬币（幸運のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "野生女人（ワイルドウーマン）"
+      },
+      {
+        "name": "★御守（ミサンガ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "野生女人（ワイルドウーマン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "530",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "冰雷山 C 路线（氷雷山Ｃルート）",
+    "items": [
+      {
+        "name": "魔道教典 Lv2《睡眠之云》（魔道教典 Lv2『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "155～187",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "迟钝诅咒（鈍足の呪い）",
+        "isRare": false,
+        "trap_difficulty": "105～133",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "★守护之剑（守護の剣）",
+        "isRare": true,
+        "trap_difficulty": "161～167",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "长刀物干竿（長刀物干竿）",
+        "isRare": false,
+        "trap_difficulty": "143～165",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "合金重铠（合金の重鎧）",
+        "isRare": false,
+        "trap_difficulty": "332～370",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "仁王铠甲（仁王の鎧）",
+        "isRare": false,
+        "trap_difficulty": "160～196",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "雷龙牙杖（雷竜の牙杖）",
+        "isRare": false,
+        "trap_difficulty": "418",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "雷龙秘石（雷竜の秘石）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "雷龙之盾（雷竜の盾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "★雷龙之鳞（雷竜の鱗）",
+        "isRare": true,
+        "trap_difficulty": "132",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "封魔之盾（封魔の盾）",
+        "isRare": false,
+        "trap_difficulty": "570～602",
+        "drop_monster": "迷路巨人（はぐれ巨人）"
+      },
+      {
+        "name": "攻击奥义（攻めの極意）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷路巨人（はぐれ巨人）"
+      },
+      {
+        "name": "★腰卷（腰巻き）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "迷路巨人（はぐれ巨人）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "530",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "冰雷山 D 路线（氷雷山Ｄルート）",
+    "items": [
+      {
+        "name": "魔道教典 Lv2《睡眠之云》（魔道教典 Lv2『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "153\\~195",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "迟钝诅咒（鈍足の呪い）",
+        "isRare": false,
+        "trap_difficulty": "121～137",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "★守护之剑（守護の剣）",
+        "isRare": true,
+        "trap_difficulty": "161～167",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "长刀物干竿（長刀物干竿）",
+        "isRare": false,
+        "trap_difficulty": "143～185",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "合金重铠（合金の重鎧）",
+        "isRare": false,
+        "trap_difficulty": "330～370",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "仁王铠甲（仁王の鎧）",
+        "isRare": false,
+        "trap_difficulty": "160～196",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "大马士革板甲（ダマスカスプレート）",
+        "isRare": false,
+        "trap_difficulty": "346",
+        "drop_monster": "猛犸象（マンモス）"
+      },
+      {
+        "name": "魔剑（魔剣）",
+        "isRare": false,
+        "trap_difficulty": "193～243",
+        "drop_monster": "猛犸象（マンモス）"
+      },
+      {
+        "name": "冰龙牙杖（氷竜の牙杖）",
+        "isRare": false,
+        "trap_difficulty": "348～360",
+        "drop_monster": "冰龙（アイスドラゴン）"
+      },
+      {
+        "name": "冰龙秘石（氷竜の秘石）",
+        "isRare": false,
+        "trap_difficulty": "265",
+        "drop_monster": "冰龙（アイスドラゴン）"
+      },
+      {
+        "name": "冰龙护手（氷竜の小手）",
+        "isRare": false,
+        "trap_difficulty": "508～520",
+        "drop_monster": "冰龙（アイスドラゴン）"
+      },
+      {
+        "name": "雪女结晶（雪女の結晶）",
+        "isRare": false,
+        "trap_difficulty": "348～360",
+        "drop_monster": "冰龙（アイスドラゴン）"
+      },
+      {
+        "name": "★冰龙之鳞（氷竜の鱗）",
+        "isRare": true,
+        "trap_difficulty": "150",
+        "drop_monster": "冰龙（アイスドラゴン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "530",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "冰雷山 E 路线（氷雷山Ｅルート）",
+    "items": [
+      {
+        "name": "魔道教典 Lv2《睡眠之云》（魔道教典 Lv2『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "183\\~193",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "迟钝诅咒（鈍足の呪い）",
+        "isRare": false,
+        "trap_difficulty": "109\\~121",
+        "drop_monster": "飞虫（フライヤー）"
+      },
+      {
+        "name": "★守护之剑（守護の剣）",
+        "isRare": true,
+        "trap_difficulty": "161～167",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "长刀物干竿（長刀物干竿）",
+        "isRare": false,
+        "trap_difficulty": "143～181",
+        "drop_monster": "大角兽（ビッグホーン）"
+      },
+      {
+        "name": "合金重铠（合金の重鎧）",
+        "isRare": false,
+        "trap_difficulty": "332～370",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "仁王铠甲（仁王の鎧）",
+        "isRare": false,
+        "trap_difficulty": "160～196",
+        "drop_monster": "巨魔（トロール）"
+      },
+      {
+        "name": "大马士革板甲（ダマスカスプレート）",
+        "isRare": false,
+        "trap_difficulty": "346",
+        "drop_monster": "猛犸象（マンモス）"
+      },
+      {
+        "name": "魔剑（魔剣）",
+        "isRare": false,
+        "trap_difficulty": "193",
+        "drop_monster": "猛犸象（マンモス）"
+      },
+      {
+        "name": "雷龙牙杖（雷竜の牙杖）",
+        "isRare": false,
+        "trap_difficulty": "418",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "雷龙秘石（雷竜の秘石）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "雷龙之盾（雷竜の盾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "★雷龙之鳞（雷竜の鱗）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "闪电龙（サンダードラゴン）"
+      },
+      {
+        "name": "成长与财产护身符（成長と財産のお守り）",
+        "isRare": false,
+        "trap_difficulty": "584",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "防御奥义（守りの極意）",
+        "isRare": false,
+        "trap_difficulty": "612",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "座敷童子头巾（座敷童子の頭巾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "★大地之鼓（大地のドラム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "神龙牙杖（神竜の牙杖）",
+        "isRare": false,
+        "trap_difficulty": "520",
+        "drop_monster": "银龙（シルバードラゴン）"
+      },
+      {
+        "name": "★闪电剑（稲妻の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "银龙（シルバードラゴン）"
+      },
+      {
+        "name": "银龙铠甲（銀竜の鎧）",
+        "isRare": false,
+        "trap_difficulty": "520",
+        "drop_monster": "银龙（シルバードラゴン）"
+      },
+      {
+        "name": "★银龙之鳞（銀竜の鱗）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "银龙（シルバードラゴン）"
+      },
+      {
+        "name": "王家之盾（王家の盾）",
+        "isRare": false,
+        "trap_difficulty": "376",
+        "drop_monster": "龙王（キングドラゴン）"
+      },
+      {
+        "name": "龙王之剑（龍王の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙王（キングドラゴン）"
+      },
+      {
+        "name": "龙王之杖（龍王の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙王（キングドラゴン）"
+      },
+      {
+        "name": "★结界之剑（結界の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "龙王（キングドラゴン）"
+      },
+      {
+        "name": "★金龙之鳞（金竜の鱗）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "龙王（キングドラゴン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "530",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "赛博格研究所（サイボーグ研究所）",
+    "items": [
+      {
+        "name": "★吹雪剑（吹雪の剣）",
+        "isRare": true,
+        "trap_difficulty": "178～182",
+        "drop_monster": "冷击兵（冷撃兵）"
+      },
+      {
+        "name": "重装甲铠（重装甲鎧）",
+        "isRare": false,
+        "trap_difficulty": "326～332",
+        "drop_monster": "机枪兵（マシンガン兵）"
+      },
+      {
+        "name": "刺客匕首（アサシンダガー）",
+        "isRare": false,
+        "trap_difficulty": "134",
+        "drop_monster": "魔装兵（魔装兵）"
+      },
+      {
+        "name": "十字手里剑（十字手裏剣）",
+        "isRare": false,
+        "trap_difficulty": "334",
+        "drop_monster": "赛博格忍者（サイボーグ忍者）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "500",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "赛博格研究所 B（サイボーグ研究所Ｂ）",
+    "items": [
+      {
+        "name": "★吹雪剑（吹雪の剣）",
+        "isRare": true,
+        "trap_difficulty": "182",
+        "drop_monster": "冷击兵（冷撃兵）"
+      },
+      {
+        "name": "重装甲铠（重装甲鎧）",
+        "isRare": false,
+        "trap_difficulty": "326～332",
+        "drop_monster": "机枪兵（マシンガン兵）"
+      },
+      {
+        "name": "刺客匕首（アサシンダガー）",
+        "isRare": false,
+        "trap_difficulty": "140",
+        "drop_monster": "魔装兵（魔装兵）"
+      },
+      {
+        "name": "十字手里剑（十字手裏剣）",
+        "isRare": false,
+        "trap_difficulty": "326\\~334",
+        "drop_monster": "赛博格忍者（サイボーグ忍者）"
+      },
+      {
+        "name": "战士守护剑（戦士の守護剣）",
+        "isRare": false,
+        "trap_difficulty": "287～358",
+        "drop_monster": "原型机（プロトタイプ）"
+      },
+      {
+        "name": "机械身躯（機械の体）",
+        "isRare": false,
+        "trap_difficulty": "336",
+        "drop_monster": "原型机（プロトタイプ）"
+      },
+      {
+        "name": "★伪核心系统（偽コア・システム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "原型机（プロトタイプ）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "500",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "快乐兔子（ハッピーラビット）"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "涅亚湖的怪兽（ネア湖の怪獣）",
+    "items": [
+      {
+        "name": "不死杀手剑（アンデッドキラー）",
+        "isRare": false,
+        "trap_difficulty": "208",
+        "drop_monster": "沙罗曼蛇（サハギン）"
+      },
+      {
+        "name": "★治愈之剑（癒しの剣）",
+        "isRare": true,
+        "trap_difficulty": "203",
+        "drop_monster": "沙罗曼蛇（サハギン）"
+      },
+      {
+        "name": "献身之衣（献身の衣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "海蛇（サーペント）"
+      },
+      {
+        "name": "水镜之盾（水鏡の盾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "海蛇（サーペント）"
+      },
+      {
+        "name": "海蛇太刀（海蛇の太刀）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "海蛇（サーペント）"
+      },
+      {
+        "name": "咒文卷《神之雷》（呪文書『神の雷』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "海蛇（サーペント）"
+      },
+      {
+        "name": "夜莺法杖（ナイチンゲール）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "海龙王（シードラゴン）"
+      },
+      {
+        "name": "神秘之石（神秘の石）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "海龙王（シードラゴン）"
+      },
+      {
+        "name": "海龙之牙（海竜の牙）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "海龙王（シードラゴン）"
+      },
+      {
+        "name": "恐龙铠甲（竜恐の鎧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙龟（竜亀）"
+      },
+      {
+        "name": "神之盾（神の盾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙龟（竜亀）"
+      },
+      {
+        "name": "龟甲（亀の甲羅）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙龟（竜亀）"
+      },
+      {
+        "name": "咒文卷《痊愈之力》（呪文書『全快の力』）",
+        "isRare": false,
+        "trap_difficulty": "333",
+        "drop_monster": "龙龟（竜亀）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "大平原的巨大生物（大平原の巨大生物）",
+    "items": [
+      {
+        "name": "豪华铠甲（豪華な鎧）",
+        "isRare": false,
+        "trap_difficulty": "398",
+        "drop_monster": "巨大生物（巨大生物）"
+      },
+      {
+        "name": "探险家眼镜（探検家のメガネ）",
+        "isRare": false,
+        "trap_difficulty": "648",
+        "drop_monster": "巨大生物（巨大生物）"
+      },
+      {
+        "name": "石像鬼铠甲（ゴーレムの鎧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "恐龙（恐竜）"
+      },
+      {
+        "name": "恐龙蛋（恐竜の卵）",
+        "isRare": false,
+        "trap_difficulty": "648",
+        "drop_monster": "恐龙（恐竜）"
+      },
+      {
+        "name": "阳炎之刀（陽炎の刀）",
+        "isRare": false,
+        "trap_difficulty": "458",
+        "drop_monster": "三角龙（トリケラトプス）"
+      },
+      {
+        "name": "三角龙角（トリケラトプスの角）",
+        "isRare": false,
+        "trap_difficulty": "558",
+        "drop_monster": "三角龙（トリケラトプス）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "480",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "巨龙狩猎场（竜の狩り場）",
+    "items": [
+      {
+        "name": "魔龙牙杖（魔竜の牙杖）",
+        "isRare": false,
+        "trap_difficulty": "398",
+        "drop_monster": "青铜龙（ブロンズドラゴン）"
+      },
+      {
+        "name": "火龙牙杖（火竜の牙杖）",
+        "isRare": false,
+        "trap_difficulty": "398",
+        "drop_monster": "巨型龙（ラージドラゴン）"
+      },
+      {
+        "name": "火龙秘石（火竜の秘石）",
+        "isRare": false,
+        "trap_difficulty": "303",
+        "drop_monster": "巨型龙（ラージドラゴン）"
+      },
+      {
+        "name": "王家长剑（王家の長剣）",
+        "isRare": false,
+        "trap_difficulty": "408",
+        "drop_monster": "龙王子（ドラゴンプリンス）"
+      },
+      {
+        "name": "三叉剑（トリプルソード）",
+        "isRare": false,
+        "trap_difficulty": "558",
+        "drop_monster": "龙王子（ドラゴンプリンス）"
+      },
+      {
+        "name": "★女神之剑（女神の剣）",
+        "isRare": true,
+        "trap_difficulty": "313",
+        "drop_monster": "龙王子（ドラゴンプリンス）"
+      },
+      {
+        "name": "王家铠甲（王家の鎧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙人王（ドラゴニアン王）"
+      },
+      {
+        "name": "★神秘之剑（神秘の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "龙人王（ドラゴニアン王）"
+      },
+      {
+        "name": "龙人王长枪（竜人王の槍）",
+        "isRare": false,
+        "trap_difficulty": "558",
+        "drop_monster": "龙人王（ドラゴニアン王）"
+      },
+      {
+        "name": "龙玉（ドラゴンオーブ）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "龙人王（ドラゴニアン王）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "480",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "兔子争夺战（ラビット争奪戦）",
+    "items": [
+      {
+        "name": "觉醒戒指（覚醒の指輪）",
+        "isRare": false,
+        "trap_difficulty": "167",
+        "drop_monster": "地痞（おいはぎ）"
+      },
+      {
+        "name": "刺客匕首（アサシンダガー）",
+        "isRare": false,
+        "trap_difficulty": "94",
+        "drop_monster": "猎人盗贼（ハンターシーフ）"
+      },
+      {
+        "name": "★治愈之剑（癒しの剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "叛徒（背教徒）"
+      },
+      {
+        "name": "托钵袋（頭陀袋）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "叛徒（背教徒）"
+      },
+      {
+        "name": "盗贼护手（盗賊の小手）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "盗贼（盗賊）"
+      },
+      {
+        "name": "★睡眠剑（眠りの剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "魔法师（魔法使い）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "94",
+        "drop_monster": "剑士（剣士）"
+      },
+      {
+        "name": "★魔法剑（魔法の剣）",
+        "isRare": true,
+        "trap_difficulty": "89",
+        "drop_monster": "正规兵（正規兵）"
+      },
+      {
+        "name": "火焰魔杖（ファイアーワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "女魔导士（女魔導師）"
+      },
+      {
+        "name": "咒文卷《魔法之矢》（呪文書『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "女魔导士（女魔導師）"
+      },
+      {
+        "name": "定制大剑（特注の大剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "装甲战士（アーマー戦士）"
+      },
+      {
+        "name": "强效治愈法杖（ヒールプラスロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "女贤者（女賢者）"
+      },
+      {
+        "name": "加速装置（加速装置）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "高级盗贼（ハイシーフ）"
+      },
+      {
+        "name": "魔法剑（マジックソード）",
+        "isRare": false,
+        "trap_difficulty": "211",
+        "drop_monster": "魔法剑士（魔法剣士）"
+      },
+      {
+        "name": "魔道教典 Lv4《冻结暴风雪》（魔道教典 Lv4『凍える吹雪』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "魔法剑士（魔法剣士）"
+      },
+      {
+        "name": "祭司法衣（司祭の法衣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "装甲骑士（アーマーナイト）"
+      },
+      {
+        "name": "冰之魔杖（アイスワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "公主（プリンセス）"
+      },
+      {
+        "name": "咒文卷《结界之力》（呪文書『結界の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "公主（プリンセス）"
+      },
+      {
+        "name": "圣骑士盾牌（パラディンシールド）",
+        "isRare": false,
+        "trap_difficulty": "237",
+        "drop_monster": "亲卫队（親衛隊）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "115～121",
+        "drop_monster": "亲卫队（親衛隊）"
+      },
+      {
+        "name": "★吹雪剑（吹雪の剣）",
+        "isRare": true,
+        "trap_difficulty": "130",
+        "drop_monster": "冷击兵（冷撃兵）"
+      },
+      {
+        "name": "重装甲铠（重装甲鎧）",
+        "isRare": false,
+        "trap_difficulty": "286",
+        "drop_monster": "机枪兵（マシンガン兵）"
+      },
+      {
+        "name": "刺客匕首（アサシンダガー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "魔装兵（魔装兵）"
+      },
+      {
+        "name": "十字手里剑（十字手裏剣）",
+        "isRare": false,
+        "trap_difficulty": "278",
+        "drop_monster": "赛博格忍者（サイボーグ忍者）"
+      },
+      {
+        "name": "闪电魔杖（サンダーワンド）",
+        "isRare": false,
+        "trap_difficulty": "235",
+        "drop_monster": "术士（ソーサラー）"
+      },
+      {
+        "name": "咒文卷《冻结暴风雪》（呪文書『凍える吹雪』）",
+        "isRare": false,
+        "trap_difficulty": "148\\~152",
+        "drop_monster": "术士（ソーサラー）"
+      },
+      {
+        "name": "魔法魔杖（マジックワンド）",
+        "isRare": false,
+        "trap_difficulty": "239\\~241",
+        "drop_monster": "女巫（ウィッチ）"
+      },
+      {
+        "name": "神圣教典 Lv2《守护之力》（神聖教典 Lv2『守護の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "女巫（ウィッチ）"
+      },
+      {
+        "name": "旗本之盾（旗本の盾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "足轻兵（足軽兵）"
+      },
+      {
+        "name": "骑士板甲（ナイトプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "力士（力士）"
+      },
+      {
+        "name": "力士腰带（力士の帯）",
+        "isRare": false,
+        "trap_difficulty": "282～360",
+        "drop_monster": "力士（力士）"
+      },
+      {
+        "name": "小太刀（小太刀）",
+        "isRare": false,
+        "trap_difficulty": "235",
+        "drop_monster": "忍者（忍者）"
+      },
+      {
+        "name": "三日月宗近（三日月宗近）",
+        "isRare": false,
+        "trap_difficulty": "430～436",
+        "drop_monster": "机关武者（からくり武者）"
+      },
+      {
+        "name": "舞姬小剑（舞姫の小剣）",
+        "isRare": false,
+        "trap_difficulty": "280",
+        "drop_monster": "女忍者（女忍者）"
+      },
+      {
+        "name": "黑装束（黒装束）",
+        "isRare": false,
+        "trap_difficulty": "111",
+        "drop_monster": "女忍者（女忍者）"
+      },
+      {
+        "name": "核能魔杖（ニュークリアワンド）",
+        "isRare": false,
+        "trap_difficulty": "278",
+        "drop_monster": "巫女（巫女）"
+      },
+      {
+        "name": "神圣教典 Lv4《恢复之力》（神聖教典 Lv4『回復の力』）",
+        "isRare": false,
+        "trap_difficulty": "148",
+        "drop_monster": "巫女（巫女）"
+      },
+      {
+        "name": "舞姬之衣（舞姫の衣）",
+        "isRare": false,
+        "trap_difficulty": "351",
+        "drop_monster": "侍女（侍女）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "480",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "十字军之馆（十字軍の館）",
+    "items": [
+      {
+        "name": "治愈法杖（ヒールロッド）",
+        "isRare": false,
+        "trap_difficulty": "299\\~309",
+        "drop_monster": "小精灵（ピクシー）"
+      },
+      {
+        "name": "神圣教典 Lv1《治愈之力》（神聖教典 Lv1『癒しの力』）",
+        "isRare": false,
+        "trap_difficulty": "152",
+        "drop_monster": "小精灵（ピクシー）"
+      },
+      {
+        "name": "骑士盾牌（ナイトシールド）",
+        "isRare": false,
+        "trap_difficulty": "169\\~179",
+        "drop_monster": "飞马（ペガサス）"
+      },
+      {
+        "name": "闪电魔杖（サンダーワンド）",
+        "isRare": false,
+        "trap_difficulty": "301\\~309",
+        "drop_monster": "术士（ソーサラー）"
+      },
+      {
+        "name": "咒文卷《冻结暴风雪》（呪文書『凍える吹雪』）",
+        "isRare": false,
+        "trap_difficulty": "208\\~226",
+        "drop_monster": "术士（ソーサラー）"
+      },
+      {
+        "name": "圣骑士剑（パラディンソード）",
+        "isRare": false,
+        "trap_difficulty": "356",
+        "drop_monster": "皇家骑士（ロイヤルナイト）"
+      },
+      {
+        "name": "七光剑（七光りの剣）",
+        "isRare": false,
+        "trap_difficulty": "356",
+        "drop_monster": "皇家骑士（ロイヤルナイト）"
+      },
+      {
+        "name": "★天使之铃（天使の鈴）",
+        "isRare": true,
+        "trap_difficulty": "174",
+        "drop_monster": "皇家骑士（ロイヤルナイト）"
+      },
+      {
+        "name": "治愈法杖（ヒールロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "天使（エンジェル）"
+      },
+      {
+        "name": "强效治愈法杖（ヒールプラスロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "天使（エンジェル）"
+      },
+      {
+        "name": "群体治愈法杖（パーティヒールロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "天使（エンジェル）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "480",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "魔女洞窟（魔女の洞窟）",
+    "items": [
+      {
+        "name": "★睡眠剑（眠りの剣）",
+        "isRare": true,
+        "trap_difficulty": "183\\~185",
+        "drop_monster": "南瓜灯（ジャックランタン）"
+      },
+      {
+        "name": "魔道教典 Lv3《火焰之玉》（魔道教典 Lv3『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "191\\~215",
+        "drop_monster": "南瓜灯（ジャックランタン）"
+      },
+      {
+        "name": "骑士斗篷（ナイトクローク）",
+        "isRare": false,
+        "trap_difficulty": "191",
+        "drop_monster": "狮鹫（グリフォン）"
+      },
+      {
+        "name": "魔法魔杖（マジックワンド）",
+        "isRare": false,
+        "trap_difficulty": "301\\~321",
+        "drop_monster": "女巫（ウィッチ）"
+      },
+      {
+        "name": "神圣教典 Lv2《守护之力》（神聖教典 Lv2『守護の力』）",
+        "isRare": false,
+        "trap_difficulty": "181",
+        "drop_monster": "女巫（ウィッチ）"
+      },
+      {
+        "name": "圣骑士铠甲（パラディンアーマー）",
+        "isRare": false,
+        "trap_difficulty": "325",
+        "drop_monster": "刻耳柏洛斯（ケルベロス）"
+      },
+      {
+        "name": "魔灭咒杖（魔滅の呪杖）",
+        "isRare": false,
+        "trap_difficulty": "370",
+        "drop_monster": "刻耳柏洛斯（ケルベロス）"
+      },
+      {
+        "name": "★魔兽项圈（魔獣の首輪）",
+        "isRare": true,
+        "trap_difficulty": "160",
+        "drop_monster": "刻耳柏洛斯（ケルベロス）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "480",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "千年城（ミレニアム）",
+    "items": [
+      {
+        "name": "治愈法杖（ヒールロッド）",
+        "isRare": false,
+        "trap_difficulty": "303\\~325",
+        "drop_monster": "小精灵（ピクシー）"
+      },
+      {
+        "name": "神圣教典 Lv1《治愈之力》（神聖教典 Lv1『癒しの力』）",
+        "isRare": false,
+        "trap_difficulty": "158\\~174",
+        "drop_monster": "小精灵（ピクシー）"
+      },
+      {
+        "name": "骑士盾牌（ナイトシールド）",
+        "isRare": false,
+        "trap_difficulty": "185\\~193",
+        "drop_monster": "飞马（ペガサス）"
+      },
+      {
+        "name": "★睡眠剑（眠りの剣）",
+        "isRare": true,
+        "trap_difficulty": "177\\~181",
+        "drop_monster": "南瓜灯（ジャックランタン）"
+      },
+      {
+        "name": "魔道教典 Lv3《火焰之玉》（魔道教典 Lv3『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "201\\~217",
+        "drop_monster": "南瓜灯（ジャックランタン）"
+      },
+      {
+        "name": "骑士斗篷（ナイトクローク）",
+        "isRare": false,
+        "trap_difficulty": "173\\~189",
+        "drop_monster": "狮鹫（グリフォン）"
+      },
+      {
+        "name": "圣骑士斗篷（パラディンクローク）",
+        "isRare": false,
+        "trap_difficulty": "321\\~327",
+        "drop_monster": "骑士（ケンタナイト）"
+      },
+      {
+        "name": "魔法盾牌（マジックシールド）",
+        "isRare": false,
+        "trap_difficulty": "283\\~327",
+        "drop_monster": "半人马（ケンタウロス）"
+      },
+      {
+        "name": "胁差（脇差し）",
+        "isRare": false,
+        "trap_difficulty": "177\\~189",
+        "drop_monster": "半人马（ケンタウロス）"
+      },
+      {
+        "name": "治愈法杖（ヒールロッド）",
+        "isRare": false,
+        "trap_difficulty": "319",
+        "drop_monster": "天使（エンジェル）"
+      },
+      {
+        "name": "强效治愈法杖（ヒールプラスロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "天使（エンジェル）"
+      },
+      {
+        "name": "群体治愈法杖（パーティヒールロッド）",
+        "isRare": false,
+        "trap_difficulty": "370",
+        "drop_monster": "天使（エンジェル）"
+      },
+      {
+        "name": "女武神之盾（ヴァルキリーの盾）",
+        "isRare": false,
+        "trap_difficulty": "724",
+        "drop_monster": "主天使多明我（主天使ドミニオン）"
+      },
+      {
+        "name": "支配剑（ドミニオンソード）",
+        "isRare": false,
+        "trap_difficulty": "616",
+        "drop_monster": "主天使多明我（主天使ドミニオン）"
+      },
+      {
+        "name": "神代笏（神代の笏 (しゃく)）",
+        "isRare": false,
+        "trap_difficulty": "624",
+        "drop_monster": "主天使多明我（主天使ドミニオン）"
+      },
+      {
+        "name": "★突击喇叭（突撃ラッパ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "主天使多明我（主天使ドミニオン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "陆连桥（陸繋ぎの橋）",
+    "items": [
+      {
+        "name": "旗本之盾（旗本の盾）",
+        "isRare": false,
+        "trap_difficulty": "313～329",
+        "drop_monster": "足轻兵（足軽兵）"
+      },
+      {
+        "name": "骑士板甲（ナイトプレート）",
+        "isRare": false,
+        "trap_difficulty": "191～210",
+        "drop_monster": "力士（力士）"
+      },
+      {
+        "name": "力士腰带（力士の帯）",
+        "isRare": false,
+        "trap_difficulty": "358～374",
+        "drop_monster": "力士（力士）"
+      },
+      {
+        "name": "小太刀（小太刀）",
+        "isRare": false,
+        "trap_difficulty": "313～329",
+        "drop_monster": "忍者（忍者）"
+      },
+      {
+        "name": "狮子王刀（獅子王刀）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "牛若丸（牛若丸）"
+      },
+      {
+        "name": "源氏护手（源氏の小手）",
+        "isRare": false,
+        "trap_difficulty": "626～",
+        "drop_monster": "牛若丸（牛若丸）"
+      },
+      {
+        "name": "★秘籍（虎の巻）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "牛若丸（牛若丸）"
+      },
+      {
+        "name": "鬼丸国纲（鬼丸国綱）",
+        "isRare": false,
+        "trap_difficulty": "626～",
+        "drop_monster": "弁庆（弁慶）"
+      },
+      {
+        "name": "源氏铠甲（源氏の鎧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "弁庆（弁慶）"
+      },
+      {
+        "name": "★七道具（七つ道具）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "弁庆（弁慶）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "480",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "竹林（竹林）",
+    "items": [
+      {
+        "name": "三日月宗近（三日月宗近）",
+        "isRare": false,
+        "trap_difficulty": "512\\~532",
+        "drop_monster": "机关武者（からくり武者）"
+      },
+      {
+        "name": "★红莲剑（紅蓮の剣）",
+        "isRare": true,
+        "trap_difficulty": "202\\~222",
+        "drop_monster": "妖狐（妖狐）"
+      },
+      {
+        "name": "暗杀者服装（暗殺者の服）",
+        "isRare": false,
+        "trap_difficulty": "317\\~337",
+        "drop_monster": "河童（河童）"
+      },
+      {
+        "name": "忍者守护剑（忍者の守護剣）",
+        "isRare": false,
+        "trap_difficulty": "382",
+        "drop_monster": "金虎（金虎）"
+      },
+      {
+        "name": "银护手（銀の小手）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "金虎（金虎）"
+      },
+      {
+        "name": "★黄金毛皮（黄金の毛皮）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "金虎（金虎）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "480",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "巫女神社（巫女の神社）",
+    "items": [
+      {
+        "name": "旗本之盾（旗本の盾）",
+        "isRare": false,
+        "trap_difficulty": "259",
+        "drop_monster": "足轻兵（足軽兵）"
+      },
+      {
+        "name": "骑士板甲（ナイトプレート）",
+        "isRare": false,
+        "trap_difficulty": "203\\~215",
+        "drop_monster": "力士（力士）"
+      },
+      {
+        "name": "力士腰带（力士の帯）",
+        "isRare": false,
+        "trap_difficulty": "378\\~380",
+        "drop_monster": "力士（力士）"
+      },
+      {
+        "name": "三日月宗近（三日月宗近）",
+        "isRare": false,
+        "trap_difficulty": "534\\~538",
+        "drop_monster": "机关武者（からくり武者）"
+      },
+      {
+        "name": "舞姬小剑（舞姫の小剣）",
+        "isRare": false,
+        "trap_difficulty": "333～396",
+        "drop_monster": "女忍者（女忍者）"
+      },
+      {
+        "name": "黑装束（黒装束）",
+        "isRare": false,
+        "trap_difficulty": "197\\~215",
+        "drop_monster": "女忍者（女忍者）"
+      },
+      {
+        "name": "核能魔杖（ニュークリアワンド）",
+        "isRare": false,
+        "trap_difficulty": "368\\~394",
+        "drop_monster": "巫女（巫女）"
+      },
+      {
+        "name": "神圣教典 Lv4《恢复之力》（神聖教典 Lv4『回復の力』）",
+        "isRare": false,
+        "trap_difficulty": "242\\~262",
+        "drop_monster": "巫女（巫女）"
+      },
+      {
+        "name": "舞姬之衣（舞姫の衣）",
+        "isRare": false,
+        "trap_difficulty": "331\\~351",
+        "drop_monster": "侍女（侍女）"
+      },
+      {
+        "name": "狮子王刀（獅子王刀）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "牛若丸（牛若丸）"
+      },
+      {
+        "name": "源氏护手（源氏の小手）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "牛若丸（牛若丸）"
+      },
+      {
+        "name": "★秘籍（虎の巻）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "牛若丸（牛若丸）"
+      },
+      {
+        "name": "鬼丸国纲（鬼丸国綱）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "弁庆（弁慶）"
+      },
+      {
+        "name": "源氏铠甲（源氏の鎧）",
+        "isRare": false,
+        "trap_difficulty": "648",
+        "drop_monster": "弁庆（弁慶）"
+      },
+      {
+        "name": "★七道具（七つ道具）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "弁庆（弁慶）"
+      },
+      {
+        "name": "八咫镜（八咫鏡）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "卑弥呼（卑弥呼）"
+      },
+      {
+        "name": "八尺琼勾玉（八尺瓊勾玉）",
+        "isRare": false,
+        "trap_difficulty": "620",
+        "drop_monster": "卑弥呼（卑弥呼）"
+      },
+      {
+        "name": "公主剑（プリンセスソード）",
+        "isRare": false,
+        "trap_difficulty": "720",
+        "drop_monster": "卑弥呼（卑弥呼）"
+      },
+      {
+        "name": "神圣教典 Lv7《神秘之力》（神聖教典 Lv7『神秘の力』）",
+        "isRare": false,
+        "trap_difficulty": "360",
+        "drop_monster": "卑弥呼（卑弥呼）"
+      },
+      {
+        "name": "★祈祷棒（祈祷棒）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "卑弥呼（卑弥呼）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "568\\~777",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "妖怪矿山（妖怪鉱山）",
+    "items": [
+      {
+        "name": "★红莲剑（紅蓮の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "妖狐（妖狐）"
+      },
+      {
+        "name": "暗杀者服装（暗殺者の服）",
+        "isRare": false,
+        "trap_difficulty": "319\\~339",
+        "drop_monster": "河童（河童）"
+      },
+      {
+        "name": "大小姐之杖（令嬢の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "天狐（天狐）"
+      },
+      {
+        "name": "弑神剑（ゴッドキラー）",
+        "isRare": false,
+        "trap_difficulty": "259",
+        "drop_monster": "天狐（天狐）"
+      },
+      {
+        "name": "★油炸物（あぶらあげ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "天狐（天狐）"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "大蛇洞窟（大蛇の洞窟）",
+    "items": [
+      {
+        "name": "武士之魂（武士の魂）",
+        "isRare": false,
+        "trap_difficulty": "654",
+        "drop_monster": "夜叉（夜叉）"
+      },
+      {
+        "name": "忍者剑（ニンジャソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "夜叉（夜叉）"
+      },
+      {
+        "name": "★般若面具（般若の面）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "夜叉（夜叉）"
+      },
+      {
+        "name": "阿修罗之剑（阿修羅の剣）",
+        "isRare": false,
+        "trap_difficulty": "436",
+        "drop_monster": "修罗（修羅）"
+      },
+      {
+        "name": "盗贼护手（盗賊の小手）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "修罗（修羅）"
+      },
+      {
+        "name": "★荒魂（荒魂）",
+        "isRare": true,
+        "trap_difficulty": "280",
+        "drop_monster": "修罗（修羅）"
+      },
+      {
+        "name": "大小姐之杖（令嬢の杖）",
+        "isRare": false,
+        "trap_difficulty": "506",
+        "drop_monster": "天狐（天狐）"
+      },
+      {
+        "name": "弑神剑（ゴッドキラー）",
+        "isRare": false,
+        "trap_difficulty": "280",
+        "drop_monster": "天狐（天狐）"
+      },
+      {
+        "name": "★油炸物（あぶらあげ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "天狐（天狐）"
+      },
+      {
+        "name": "八岐勾玉（八岐の勾玉）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "八岐大蛇（ヤマタノオロチ）"
+      },
+      {
+        "name": "大蛇之血（大蛇の血）",
+        "isRare": false,
+        "trap_difficulty": "1482",
+        "drop_monster": "八岐大蛇（ヤマタノオロチ）"
+      },
+      {
+        "name": "★大蛇之尾（大蛇のしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "八岐大蛇（ヤマタノオロチ）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "剑圣洞窟（剣聖の洞窟）",
+    "items": [
+      {
+        "name": "幸运硬币（幸運のコイン）",
+        "isRare": false,
+        "trap_difficulty": "151",
+        "drop_monster": "史莱姆（スライム）"
+      },
+      {
+        "name": "尼伯龙根戒指（ニーベルングの指輪）",
+        "isRare": false,
+        "trap_difficulty": "622",
+        "drop_monster": "齐格弗里德（弱）（ジークフリート (弱)）"
+      },
+      {
+        "name": "★菩提树叶（菩提樹の葉）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "齐格弗里德（弱）（ジークフリート (弱)）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "480",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "冰之国地下遗迹（氷の国の地下遺跡）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "295",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "221\\~225",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "仁王剑（仁王の剣）",
+        "isRare": false,
+        "trap_difficulty": "392\\~472",
+        "drop_monster": "骷髅龙（スカルドラゴン）"
+      },
+      {
+        "name": "龙之杖（竜の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "骷髅龙（スカルドラゴン）"
+      },
+      {
+        "name": "★龙骨（竜骨）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "骷髅龙（スカルドラゴン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "死神遗迹（死神の遺跡）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "不死者之剑（不死者の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "君主守护剑（君主の守護剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "骷髅王（スケルトンキング）"
+      },
+      {
+        "name": "觉醒戒指（覚醒の指輪）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "骷髅王（スケルトンキング）"
+      },
+      {
+        "name": "★王者遗骨（王者の遺骨）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "骷髅王（スケルトンキング）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "王宫地下遗迹 A（王宮の地下遺跡Ａ）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "不死者之剑（不死者の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "力量清单（パワーリスト）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "舍身剑（捨て身の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "领主板甲（ロードプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "★核心系统（コア・システム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "黑魔导士之魂（黒魔導師の魂）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "白魔导士之魂（白魔導師の魂）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "月之石（ルナ・ストーン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "★绘本（絵本）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "王宫地下遗迹 B（王宮の地下遺跡Ｂ）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "254",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "不死者之剑（不死者の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "力量清单（パワーリスト）",
+        "isRare": false,
+        "trap_difficulty": "349",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "舍身剑（捨て身の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "领主板甲（ロードプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "★核心系统（コア・システム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "攻魔屏障（攻魔障壁）",
+        "isRare": false,
+        "trap_difficulty": "706",
+        "drop_monster": "蚂蚁人（アントマン）"
+      },
+      {
+        "name": "十只手脚（十の手足）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "蚂蚁人（アントマン）"
+      },
+      {
+        "name": "道具必出（アイテムでるでる）",
+        "isRare": false,
+        "trap_difficulty": "1076",
+        "drop_monster": "蚂蚁人（アントマン）"
+      },
+      {
+        "name": "★蜂王浆（ロイヤルゼリー）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "蚂蚁人（アントマン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "王宫地下遗迹 C（王宮の地下遺跡Ｃ）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "不死者之剑（不死者の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "力量清单（パワーリスト）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "改良魔法剑（マジックソード改）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "失败作・翼龙（失敗作･翼竜）"
+      },
+      {
+        "name": "★破坏之剑（破壊の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "核武装石像鬼（核武装ゴーレム）"
+      },
+      {
+        "name": "舍身剑（捨て身の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "领主板甲（ロードプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "★核心系统（コア・システム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "王宫地下遗迹 D（王宮の地下遺跡Ｄ）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "269",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "不死者之剑（不死者の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "力量清单（パワーリスト）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "舍身剑（捨て身の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "领主板甲（ロードプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "★核心系统（コア・システム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "封龙之衣（封龍の衣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "野生女人（ワイルドウーマン）"
+      },
+      {
+        "name": "不死药（不死身の薬）",
+        "isRare": false,
+        "trap_difficulty": "578",
+        "drop_monster": "野生女人（ワイルドウーマン）"
+      },
+      {
+        "name": "幸运硬币（幸運のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "野生女人（ワイルドウーマン）"
+      },
+      {
+        "name": "★御守（ミサンガ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "野生女人（ワイルドウーマン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "王宫地下遗迹 E（王宮の地下遺跡Ｅ）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "不死者之剑（不死者の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "力量清单（パワーリスト）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "舍身剑（捨て身の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "领主板甲（ロードプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "★核心系统（コア・システム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "封魔之盾（封魔の盾）",
+        "isRare": false,
+        "trap_difficulty": "570～602",
+        "drop_monster": "迷路巨人（はぐれ巨人）"
+      },
+      {
+        "name": "攻击奥义（攻めの極意）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷路巨人（はぐれ巨人）"
+      },
+      {
+        "name": "★腰卷（腰巻き）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "迷路巨人（はぐれ巨人）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "王宫地下遗迹 F（王宮の地下遺跡Ｆ）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治疗之力》（神聖教典 Lv3『治療の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "不死者之剑（不死者の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "力量清单（パワーリスト）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "舍身剑（捨て身の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "领主板甲（ロードプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "★核心系统（コア・システム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "防御系统（防衛システム）"
+      },
+      {
+        "name": "成长与财产护身符（成長と財産のお守り）",
+        "isRare": false,
+        "trap_difficulty": "584",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "防御奥义（守りの極意）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "座敷童子头巾（座敷童子の頭巾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "★大地之鼓（大地のドラム）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "吸血鬼之馆（吸血鬼の館）",
+    "items": [
+      {
+        "name": "盲人咒剑（盲人の呪剣）",
+        "isRare": false,
+        "trap_difficulty": "392\\~400",
+        "drop_monster": "吸血种（吸血種）"
+      },
+      {
+        "name": "狂战士魔剑（狂戦士の魔剣）",
+        "isRare": false,
+        "trap_difficulty": "396\\~400",
+        "drop_monster": "小恶魔（インプ）"
+      },
+      {
+        "name": "★魔法剑（魔法の剣）",
+        "isRare": true,
+        "trap_difficulty": "201\\~205",
+        "drop_monster": "小恶魔（インプ）"
+      },
+      {
+        "name": "血染铠甲（血塗られた鎧）",
+        "isRare": false,
+        "trap_difficulty": "392\\~396",
+        "drop_monster": "黑暗妖精（闇の妖精）"
+      },
+      {
+        "name": "神圣教典 Lv5《结界之力》（神聖教典 Lv5『結界の力』）",
+        "isRare": false,
+        "trap_difficulty": "289\\~291",
+        "drop_monster": "黑暗妖精（闇の妖精）"
+      },
+      {
+        "name": "隐身蓑衣（隠れ蓑）",
+        "isRare": false,
+        "trap_difficulty": "460",
+        "drop_monster": "鵺（ヌエ）"
+      },
+      {
+        "name": "冰之板甲（アイスプレート）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "吸血鬼少女（ヴァンパイア・ガール）"
+      },
+      {
+        "name": "贤者之石（賢者の石）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "吸血鬼迪加尔（吸血鬼ディガール）"
+      },
+      {
+        "name": "★葡萄酒杯（ワイングラス）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "吸血鬼迪加尔（吸血鬼ディガール）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "572",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "浮士德遗产（ファウストの遺産）",
+    "items": [
+      {
+        "name": "★军神之剑（軍神の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "僵尸（コープス）"
+      },
+      {
+        "name": "屠龙剑（ドラゴンキラー）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神圣教典 Lv3《治愈之力》（神聖教典 Lv3『治癒の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "banshee（バンシー）"
+      },
+      {
+        "name": "神之杖（神の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "魔道教典 Lv1《魔法之矢》（魔道教典 Lv1『魔法の矢』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "迷雾（ミスト）"
+      },
+      {
+        "name": "骑士剑（ナイトソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "咒文卷《火焰之玉》（呪文書『炎の玉』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "灵体（スピリット）"
+      },
+      {
+        "name": "忍者护手（忍者の手甲）",
+        "isRare": false,
+        "trap_difficulty": "243",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "咒文卷《睡眠之云》（呪文書『眠りの雲』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "西尔芙（シルフ）"
+      },
+      {
+        "name": "不死者之剑（不死者の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "巫师魔杖（ウィザードワンド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "精神犬（サイコドッグ）"
+      },
+      {
+        "name": "力量清单（パワーリスト）",
+        "isRare": false,
+        "trap_difficulty": "373",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "陈旧铁板（古びた鉄板）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "赛博格 052（サイボーグ 052）"
+      },
+      {
+        "name": "改良魔法剑（マジックソード改）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "失败作・翼龙（失敗作･翼竜）"
+      },
+      {
+        "name": "忘却之书（忘却の書）",
+        "isRare": false,
+        "trap_difficulty": "357",
+        "drop_monster": "失败作・堕天（失敗作･堕天）"
+      },
+      {
+        "name": "核暴走（核暴走）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "失败作・堕天（失敗作･堕天）"
+      },
+      {
+        "name": "★天使之翼（天使の翼）",
+        "isRare": true,
+        "trap_difficulty": "212",
+        "drop_monster": "失败作・堕天（失敗作･堕天）"
+      },
+      {
+        "name": "成长与财产护身符（成長と財産のお守り）",
+        "isRare": false,
+        "trap_difficulty": "584-672",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "防御奥义（守りの極意）",
+        "isRare": false,
+        "trap_difficulty": "666",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "座敷童子头巾（座敷童子の頭巾）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "★大地之鼓（大地のドラム）",
+        "isRare": true,
+        "trap_difficulty": "200",
+        "drop_monster": "泰坦（タイタン）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "584",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "恶魔的军队（悪魔の軍勢）",
+    "items": [
+      {
+        "name": "盲人咒剑（盲人の呪剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "吸血种（吸血種）"
+      },
+      {
+        "name": "狂战士魔剑（狂戦士の魔剣）",
+        "isRare": false,
+        "trap_difficulty": "456",
+        "drop_monster": "小恶魔（インプ）"
+      },
+      {
+        "name": "★魔法剑（魔法の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "小恶魔（インプ）"
+      },
+      {
+        "name": "血染铠甲（血塗られた鎧）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "黑暗妖精（闇の妖精）"
+      },
+      {
+        "name": "神圣教典 Lv5《结界之力》（神聖教典 Lv5『結界の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "黑暗妖精（闇の妖精）"
+      },
+      {
+        "name": "隐身蓑衣（隠れ蓑）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "鵺（ヌエ）"
+      },
+      {
+        "name": "冰之板甲（アイスプレート）",
+        "isRare": false,
+        "trap_difficulty": "456",
+        "drop_monster": "吸血鬼少女（ヴァンパイア・ガール）"
+      },
+      {
+        "name": "燃烧之杖（燃えさかる杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "火焰（フレイム）"
+      },
+      {
+        "name": "雷冲枪（雷衝槍）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "鸡蛇（コカトリス）"
+      },
+      {
+        "name": "手里剑（手裏剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "鸡蛇（コカトリス）"
+      },
+      {
+        "name": "火之板甲（ファイヤープレート）",
+        "isRare": false,
+        "trap_difficulty": "456",
+        "drop_monster": "奇美拉（キマイラ）"
+      },
+      {
+        "name": "数珠丸恒次（数珠丸恒次）",
+        "isRare": false,
+        "trap_difficulty": "606",
+        "drop_monster": "龙兵（ドラゴン兵）"
+      },
+      {
+        "name": "巨人药剂（巨人の薬）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "米诺陶洛斯（ミノタウロス）"
+      },
+      {
+        "name": "武士之魂（武士の魂）",
+        "isRare": false,
+        "trap_difficulty": "654",
+        "drop_monster": "夜叉（夜叉）"
+      },
+      {
+        "name": "忍者剑（ニンジャソード）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "夜叉（夜叉）"
+      },
+      {
+        "name": "★般若面具（般若の面）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "夜叉（夜叉）"
+      },
+      {
+        "name": "阿修罗之剑（阿修羅の剣）",
+        "isRare": false,
+        "trap_difficulty": "436",
+        "drop_monster": "修罗（修羅）"
+      },
+      {
+        "name": "盗贼护手（盗賊の小手）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "修罗（修羅）"
+      },
+      {
+        "name": "★荒魂（荒魂）",
+        "isRare": true,
+        "trap_difficulty": "280",
+        "drop_monster": "修罗（修羅）"
+      },
+      {
+        "name": "大小姐之杖（令嬢の杖）",
+        "isRare": false,
+        "trap_difficulty": "506",
+        "drop_monster": "天狐（天狐）"
+      },
+      {
+        "name": "弑神剑（ゴッドキラー）",
+        "isRare": false,
+        "trap_difficulty": "280",
+        "drop_monster": "天狐（天狐）"
+      },
+      {
+        "name": "★油炸物（あぶらあげ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "天狐（天狐）"
+      },
+      {
+        "name": "贤者守护剑（賢者の守護剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "谜语魔杖（なぞなぞ）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "咒文卷《神秘之力》（呪文書『神秘の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "咒文卷《疯狂解放》（呪文書『狂気の解放』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "魔道教典 Lv6《神之雷》（魔道教典 Lv6『神の雷』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "魔道教典 Lv7《禁忌之力》（魔道教典 Lv7『禁断の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "★金字塔石（ピラミッドストーン）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "僧侣守护剑（僧侶の守護剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "女神石板（女神のタブレット）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "梦魔之唇（サキュバス・リップ）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "梦魔法杖（サキュバス・ロッド）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "梦魔套装（サキュバス・スーツ）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "★香水（香水）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "Necromancer 之杖（ネクロマンサーの杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "罗阿（ロア）"
+      },
+      {
+        "name": "大魔导士之杖（大魔導師の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "罗阿（ロア）"
+      },
+      {
+        "name": "★面具（しゃれこうべ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "罗阿（ロア）"
+      },
+      {
+        "name": "恶魔将军之剑（悪魔将軍の剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "杜拉汉（デュラハン）"
+      },
+      {
+        "name": "吸血鬼小剑（吸血鬼の小剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "杜拉汉（デュラハン）"
+      },
+      {
+        "name": "★将军勋章（将軍の勲章）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "杜拉汉（デュラハン）"
+      },
+      {
+        "name": "执掌火焰的恶魔像（炎を司る悪魔像）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "马尔巴士（マルコキアス）"
+      },
+      {
+        "name": "恶魔之息（悪魔の吐息）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "马尔巴士（マルコキアス）"
+      },
+      {
+        "name": "魔王之爪（魔王の爪）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "马尔巴士（マルコキアス）"
+      },
+      {
+        "name": "★鹰之翼（鷲の翼）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "马尔巴士（マルコキアス）"
+      },
+      {
+        "name": "黑魔导士之魂（黒魔導師の魂）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "白魔导士之魂（白魔導師の魂）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "月之石（ルナ・ストーン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "★绘本（絵本）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "跳舞人偶（踊る人形）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "恶魔城（悪魔城）",
+    "items": [
+      {
+        "name": "盲人咒剑（盲人の呪剣）",
+        "isRare": false,
+        "trap_difficulty": "404\\~486",
+        "drop_monster": "吸血种（吸血種）"
+      },
+      {
+        "name": "狂战士魔剑（狂戦士の魔剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "小恶魔（インプ）"
+      },
+      {
+        "name": "★魔法剑（魔法の剣）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "小恶魔（インプ）"
+      },
+      {
+        "name": "血染铠甲（血塗られた鎧）",
+        "isRare": false,
+        "trap_difficulty": "408",
+        "drop_monster": "黑暗妖精（闇の妖精）"
+      },
+      {
+        "name": "神圣教典 Lv5《结界之力》（神聖教典 Lv5『結界の力』）",
+        "isRare": false,
+        "trap_difficulty": "311",
+        "drop_monster": "黑暗妖精（闇の妖精）"
+      },
+      {
+        "name": "隐身蓑衣（隠れ蓑）",
+        "isRare": false,
+        "trap_difficulty": "526",
+        "drop_monster": "鵺（ヌエ）"
+      },
+      {
+        "name": "燃烧之杖（燃えさかる杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "火焰（フレイム）"
+      },
+      {
+        "name": "雷冲枪（雷衝槍）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "鸡蛇（コカトリス）"
+      },
+      {
+        "name": "手里剑（手裏剣）",
+        "isRare": false,
+        "trap_difficulty": "369",
+        "drop_monster": "鸡蛇（コカトリス）"
+      },
+      {
+        "name": "火之板甲（ファイヤープレート）",
+        "isRare": false,
+        "trap_difficulty": "460",
+        "drop_monster": "奇美拉（キマイラ）"
+      },
+      {
+        "name": "数珠丸恒次（数珠丸恒次）",
+        "isRare": false,
+        "trap_difficulty": "624",
+        "drop_monster": "龙兵（ドラゴン兵）"
+      },
+      {
+        "name": "巨人药剂（巨人の薬）",
+        "isRare": false,
+        "trap_difficulty": "476",
+        "drop_monster": "米诺陶洛斯（ミノタウロス）"
+      },
+      {
+        "name": "贤者守护剑（賢者の守護剣）",
+        "isRare": false,
+        "trap_difficulty": "466",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "谜语魔杖（なぞなぞ）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "咒文卷《神秘之力》（呪文書『神秘の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "咒文卷《疯狂解放》（呪文書『狂気の解放』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "魔道教典 Lv6《神之雷》（魔道教典 Lv6『神の雷』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "魔道教典 Lv7《禁忌之力》（魔道教典 Lv7『禁断の力』）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "★金字塔石（ピラミッドストーン）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "斯芬克斯（スフィンクス）"
+      },
+      {
+        "name": "僧侣守护剑（僧侶の守護剣）",
+        "isRare": false,
+        "trap_difficulty": "486",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "女神石板（女神のタブレット）",
+        "isRare": false,
+        "trap_difficulty": "636",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "梦魔之唇（サキュバス・リップ）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "梦魔法杖（サキュバス・ロッド）",
+        "isRare": false,
+        "trap_difficulty": "646",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "梦魔套装（サキュバス・スーツ）",
+        "isRare": false,
+        "trap_difficulty": "836",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "★香水（香水）",
+        "isRare": true,
+        "trap_difficulty": "276",
+        "drop_monster": "梦魔（サキュバス）"
+      },
+      {
+        "name": "Necromancer 之杖（ネクロマンサーの杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "罗阿（ロア）"
+      },
+      {
+        "name": "大魔导士之杖（大魔導師の杖）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "罗阿（ロア）"
+      },
+      {
+        "name": "★面具（しゃれこうべ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "罗阿（ロア）"
+      },
+      {
+        "name": "恶魔将军之剑（悪魔将軍の剣）",
+        "isRare": false,
+        "trap_difficulty": "654",
+        "drop_monster": "杜拉汉（デュラハン）"
+      },
+      {
+        "name": "吸血鬼小剑（吸血鬼の小剣）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "杜拉汉（デュラハン）"
+      },
+      {
+        "name": "★将军勋章（将軍の勲章）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "杜拉汉（デュラハン）"
+      },
+      {
+        "name": "执掌火焰的恶魔像（炎を司る悪魔像）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "马尔巴士（マルコキアス）"
+      },
+      {
+        "name": "恶魔之息（悪魔の吐息）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "马尔巴士（マルコキアス）"
+      },
+      {
+        "name": "魔王之爪（魔王の爪）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "马尔巴士（マルコキアス）"
+      },
+      {
+        "name": "★鹰之翼（鷲の翼）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "马尔巴士（マルコキアス）"
+      },
+      {
+        "name": "奇迹硬币（奇跡のコイン）",
+        "isRare": false,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      },
+      {
+        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "isRare": true,
+        "trap_difficulty": "",
+        "drop_monster": "奇迹兔子（ミラクルラビット）"
+      }
+    ]
+  }
+]
