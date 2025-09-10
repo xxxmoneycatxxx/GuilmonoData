@@ -16,7 +16,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -58,13 +58,13 @@
         "drop_monster": "哥布林（ゴブリン）"
       },
       {
-        "name": "★魔法剑（魔法の剣）",
+        "name": "★魔法剑（★魔法の剣）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "疯狂巫师（狂気のウィザード）"
       },
       {
-        "name": "★睡眠剑（眠りの剣）",
+        "name": "★睡眠剑（★眠りの剣）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "疯狂巫师（狂気のウィザード）"
@@ -112,7 +112,7 @@
         "drop_monster": "疯狂巫师（狂気のウィザード）"
       },
       {
-        "name": "★宰相书信（宰相の書簡）",
+        "name": "★宰相书信（★宰相の書簡）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "疯狂巫师（狂気のウィザード）"
@@ -124,7 +124,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -148,7 +148,7 @@
         "drop_monster": "骷髅（スケルトン）"
       },
       {
-        "name": "★魔法剑（魔法の剣）",
+        "name": "★魔法剑（★魔法の剣）",
         "isRare": true,
         "trap_difficulty": "83",
         "drop_monster": "幽灵（ゴースト）"
@@ -166,7 +166,7 @@
         "drop_monster": "恶魔（デーモン）"
       },
       {
-        "name": "★红莲剑（紅蓮の剣）",
+        "name": "★红莲剑（★紅蓮の剣）",
         "isRare": true,
         "trap_difficulty": "118",
         "drop_monster": "恶魔（デーモン）"
@@ -178,7 +178,7 @@
         "drop_monster": "恶魔（デーモン）"
       },
       {
-        "name": "★黑翼（黒い翼）",
+        "name": "★黑翼（★黒い翼）",
         "isRare": true,
         "trap_difficulty": "68",
         "drop_monster": "恶魔（デーモン）"
@@ -190,7 +190,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -268,7 +268,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -286,7 +286,7 @@
         "drop_monster": "盗贼（盗賊）"
       },
       {
-        "name": "★睡眠剑（眠りの剣）",
+        "name": "★睡眠剑（★眠りの剣）",
         "isRare": true,
         "trap_difficulty": "87\\~91",
         "drop_monster": "魔法师（魔法使い）"
@@ -334,7 +334,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -400,7 +400,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -514,7 +514,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -586,7 +586,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -670,7 +670,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "78",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -730,7 +730,7 @@
         "drop_monster": "幸运兔子（ラッキーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "幸运兔子（ラッキーラビット）"
@@ -796,7 +796,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -808,7 +808,7 @@
     "name": "石像鬼堡垒（ゴーレムの砦）",
     "items": [
       {
-        "name": "★魔法剑（魔法の剣）",
+        "name": "★魔法剑（★魔法の剣）",
         "isRare": true,
         "trap_difficulty": "109～125",
         "drop_monster": "正规兵（正規兵）"
@@ -850,7 +850,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -904,7 +904,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -958,7 +958,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -1078,7 +1078,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -1216,7 +1216,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -1312,7 +1312,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -1324,7 +1324,7 @@
     "name": "冒险者 vs 军队（冒険者 vs 軍隊）",
     "items": [
       {
-        "name": "★魔法剑（魔法の剣）",
+        "name": "★魔法剑（★魔法の剣）",
         "isRare": true,
         "trap_difficulty": "163",
         "drop_monster": "正规兵（正規兵）"
@@ -1492,7 +1492,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -1558,7 +1558,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -1660,7 +1660,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -1756,7 +1756,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -1852,7 +1852,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -2020,7 +2020,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -2062,7 +2062,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -2122,7 +2122,7 @@
         "drop_monster": "快乐兔子（ハッピーラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "快乐兔子（ハッピーラビット）"
@@ -2218,7 +2218,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -2272,7 +2272,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -2350,7 +2350,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -2392,7 +2392,7 @@
         "drop_monster": "盗贼（盗賊）"
       },
       {
-        "name": "★睡眠剑（眠りの剣）",
+        "name": "★睡眠剑（★眠りの剣）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "魔法师（魔法使い）"
@@ -2404,7 +2404,7 @@
         "drop_monster": "剑士（剣士）"
       },
       {
-        "name": "★魔法剑（魔法の剣）",
+        "name": "★魔法剑（★魔法の剣）",
         "isRare": true,
         "trap_difficulty": "89",
         "drop_monster": "正规兵（正規兵）"
@@ -2596,7 +2596,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -2680,7 +2680,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -2692,7 +2692,7 @@
     "name": "魔女洞窟（魔女の洞窟）",
     "items": [
       {
-        "name": "★睡眠剑（眠りの剣）",
+        "name": "★睡眠剑（★眠りの剣）",
         "isRare": true,
         "trap_difficulty": "183\\~185",
         "drop_monster": "南瓜灯（ジャックランタン）"
@@ -2746,7 +2746,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -2776,7 +2776,7 @@
         "drop_monster": "飞马（ペガサス）"
       },
       {
-        "name": "★睡眠剑（眠りの剣）",
+        "name": "★睡眠剑（★眠りの剣）",
         "isRare": true,
         "trap_difficulty": "177\\~181",
         "drop_monster": "南瓜灯（ジャックランタン）"
@@ -2860,7 +2860,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -2938,7 +2938,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -2956,7 +2956,7 @@
         "drop_monster": "机关武者（からくり武者）"
       },
       {
-        "name": "★红莲剑（紅蓮の剣）",
+        "name": "★红莲剑（★紅蓮の剣）",
         "isRare": true,
         "trap_difficulty": "202\\~222",
         "drop_monster": "妖狐（妖狐）"
@@ -2992,7 +2992,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -3130,7 +3130,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -3142,7 +3142,7 @@
     "name": "妖怪矿山（妖怪鉱山）",
     "items": [
       {
-        "name": "★红莲剑（紅蓮の剣）",
+        "name": "★红莲剑（★紅蓮の剣）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "妖狐（妖狐）"
@@ -3256,7 +3256,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -3292,7 +3292,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -3370,7 +3370,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -3472,7 +3472,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -3610,7 +3610,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -3748,7 +3748,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -3874,7 +3874,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -4012,7 +4012,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -4144,7 +4144,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -4282,7 +4282,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -4306,7 +4306,7 @@
         "drop_monster": "小恶魔（インプ）"
       },
       {
-        "name": "★魔法剑（魔法の剣）",
+        "name": "★魔法剑（★魔法の剣）",
         "isRare": true,
         "trap_difficulty": "201\\~205",
         "drop_monster": "小恶魔（インプ）"
@@ -4354,7 +4354,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -4498,7 +4498,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -4522,7 +4522,7 @@
         "drop_monster": "小恶魔（インプ）"
       },
       {
-        "name": "★魔法剑（魔法の剣）",
+        "name": "★魔法剑（★魔法の剣）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "小恶魔（インプ）"
@@ -4810,7 +4810,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
@@ -4834,7 +4834,7 @@
         "drop_monster": "小恶魔（インプ）"
       },
       {
-        "name": "★魔法剑（魔法の剣）",
+        "name": "★魔法剑（★魔法の剣）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "小恶魔（インプ）"
@@ -5038,7 +5038,7 @@
         "drop_monster": "奇迹兔子（ミラクルラビット）"
       },
       {
-        "name": "★兔子尾巴（うさぎのしっぽ）",
+        "name": "★兔子尾巴（★うさぎのしっぽ）",
         "isRare": true,
         "trap_difficulty": "",
         "drop_monster": "奇迹兔子（ミラクルラビット）"
